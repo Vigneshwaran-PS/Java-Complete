@@ -25,7 +25,7 @@ class B extends A{
     }
 
     {
-        System.out.println("Initializer Block 3");
+        System.out.println("Initializer Block 4");
     }
 }
 public class Example2 {
