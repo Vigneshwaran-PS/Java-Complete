@@ -23,7 +23,7 @@ public class Example1 {
         System.out.println("From Main Method");
 
         {
-            System.out.println("Initializer Block 3");
+            System.out.println("Initializer Block 4");
         }
     }
 }
