@@ -12,6 +12,6 @@ public class Example1 {
     }
 
     public static void main(String[] args) {
-        sum(333,34);
+        //sum(333,34);
     }
 }
