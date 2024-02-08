@@ -1,17 +1,26 @@
 package Inheritance;
 
 class A{
+    A(){
+        System.out.println("Constructor A");
+    }
     void fun1(){
         System.out.println("From Base Class");
     }
 }
 
 class B extends A{
+    B(){
+        System.out.println("Constructor B");
+    }
     void fun2(){
         System.out.println("From Derived Class 1");
     }
 }
 class C extends B{
+    C(){
+        System.out.println("Constructor C");
+    }
     void fun3(){
         System.out.println("From Derived Class 2");
     }
