@@ -6,7 +6,7 @@ class P{
     }
 
     void fun1(){
-        System.out.println("Its is fun 1");
+        System.out.println("From Fun 1");
     }
 }
 
@@ -17,7 +17,7 @@ class Q extends P{
     }
 
     void fun2(){
-        System.out.println("Its is fun 2");
+        System.out.println("From Fun 2");
     }
 }
 
@@ -26,7 +26,7 @@ class R extends P{
         System.out.println("Constructor R");
     }
     void fun3(){
-        System.out.println("Its is fun1");
+        System.out.println("From Fun 3");
     }
 
 }
