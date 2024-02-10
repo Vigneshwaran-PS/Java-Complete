@@ -14,7 +14,7 @@ public class Example2 {
         System.out.println(obj instanceof Sample);
 
 //        Example2 e ;
-//        System.out.println(e instanceof Example2);  // error because e must be initialized
+//        System.out.println(e instanceof Example2);  // error because variable 'e' must be initialized
 
     }
 }
