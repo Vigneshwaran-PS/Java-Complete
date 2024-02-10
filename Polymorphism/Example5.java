@@ -7,9 +7,7 @@ class A{
 }
 
 class B extends A{
-    void eat(){
-        System.out.println("From B class");
-    }
+
 }
 public class Example5{
     public static void main(String[] args) {
