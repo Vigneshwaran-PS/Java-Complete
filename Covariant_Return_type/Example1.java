@@ -3,6 +3,7 @@ package Covariant_Return_type;
 class A{
 
     A get(){
+        System.out.println(this);
         return this;
     }
 }
@@ -10,6 +11,7 @@ class A{
 class B extends A{
 
     B get(){
+        System.out.println(this);
         return this;
     }
 
