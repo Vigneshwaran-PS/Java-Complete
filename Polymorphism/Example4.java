@@ -13,7 +13,7 @@ class Dog extends Animal{
     }
 }
 
-class BabyDog extends Animal{
+class BabyDog extends Dog{
     void eat(){
         System.out.println("BabyDog is Eating");
     }
