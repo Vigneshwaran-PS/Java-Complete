@@ -35,7 +35,7 @@ class M extends L{
 class N extends Z{
     @Override
     public void method2() {
-        System.out.println("Non Abstract Method 1");
+        System.out.println("Non Abstract Method 2");
     }
 }
 
